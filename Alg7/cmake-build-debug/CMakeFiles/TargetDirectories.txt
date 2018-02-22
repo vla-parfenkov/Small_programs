@@ -1,0 +1,3 @@
+/home/parfenkov/CLionProjects/Alg7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/parfenkov/CLionProjects/Alg7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/parfenkov/CLionProjects/Alg7/cmake-build-debug/CMakeFiles/Alg7.dir

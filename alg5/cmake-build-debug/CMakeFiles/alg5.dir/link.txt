@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/alg5.dir/main.cpp.o  -o alg5 

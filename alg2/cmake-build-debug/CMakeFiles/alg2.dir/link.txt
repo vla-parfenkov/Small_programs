@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/alg2.dir/main.cpp.o  -o alg2 

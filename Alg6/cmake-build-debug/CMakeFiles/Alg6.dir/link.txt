@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Alg6.dir/main.cpp.o  -o Alg6 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/AlgMod2_6_1.dir/main.cpp.o  -o AlgMod2_6_1 
